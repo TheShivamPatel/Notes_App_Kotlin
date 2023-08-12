@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Notes App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_notes_hint">Search notes</string>
+    <string name="this_is_title">This is title</string>
+
+    <string name="sample_desc">Android is a mobile operating system based on a modified version of the Linux kernel and other open-source software, designed primarily for touchscreen mobile devices such as smartphones and tablets.</string>
+    <string name="month">Month 18</string>
+    <string name="edited_on">Edited On</string>
+</resources>
